@@ -46,6 +46,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-1.svg?style=for-the-badge&logo=facebook&color=%230866FF)](https://facebook.com/A7Ruslan)
 [![Instagram](https://img.shields.io/badge/instagram-1.svg?style=for-the-badge&logo=instagram&color=%23FF0069)](https://www.instagram.com/ruslan_a7)
 
+<!-- 
 ---
 ## 📊 GitHub Stats | Статистика GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Ruslan-A7&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -59,6 +60,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ruslan-A7&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Ruslan-A7&icon=0&color=6)](https://visitcount.itsvg.in)
+ -->
 
 <!-- Contains parts created using GPRM ( https://gprm.itsvg.in ) -->
 <!-- Містить частини, створені з використанням GPRM ( https://gprm.itsvg.in ) -->
